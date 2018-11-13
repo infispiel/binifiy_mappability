@@ -1,0 +1,1 @@
+# Binify Mappability Data
